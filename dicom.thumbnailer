@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/bin/dcm2img
+Exec=/usr/bin/dcm2img +on +Wn %i %o
+MimeType=application/dicom;
